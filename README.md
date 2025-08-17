@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Carlos Eduardo Farias de Oliveira
+Matricula: 1562374
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+images/numeroderequests.png
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+images/helloworldjava.png
 
 
 ## Orientações sobre Linguagem MarkDown
